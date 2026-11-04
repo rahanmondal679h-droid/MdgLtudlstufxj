@@ -1,0 +1,11 @@
+{
+    "installed": true,
+    "installed_at": 1793784393,
+    "packages": [
+        "pyTelegramBotAPI",
+        "psutil",
+        "requests",
+        "flask",
+        "pytelegrambotapi"
+    ]
+}
